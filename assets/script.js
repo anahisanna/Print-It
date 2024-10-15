@@ -94,5 +94,3 @@ arrowRight.addEventListener('click', () => {
 	updateSlide();
 });
 
-// Mettre à jour la première fois pour afficher la première slide
-updateSlide();
